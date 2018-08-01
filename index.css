@@ -1,0 +1,35 @@
+body {
+  background-color: white;
+}
+
+.z-depth- {
+  color: #7295b0;
+}
+
+#h,
+#am,
+#mw,
+#cm {
+  color: white;
+}
+
+.brand-logo:hover {
+  color: black;
+  text-decoration: none;
+}
+
+#h:hover,
+#am:hover,
+#mw:hover,
+#cm:hover {
+  color: black;
+  text-decoration: none;
+  background-color: #7295b0;
+}
+
+.vl {
+  border-left: 1px solid gray;
+  height: 200px;
+  margin-left: 150px;
+  top: 0;
+}
